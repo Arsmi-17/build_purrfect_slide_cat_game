@@ -1,4 +1,4 @@
-com.arsmi.gamehub@3.0.0
+com.arsmi.gamehub@4.0.0
 com.unity.collab-proxy@2.12.4
 com.unity.connect.share@4.2.4
 com.unity.feature.2d@2.0.1
